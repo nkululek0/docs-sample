@@ -1,0 +1,25 @@
+{
+  "name": "docs-sample",
+  "version": "1.0.0",
+  "description": "Simple Google Workspace Docs file reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkululek0/docs-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkululek0/docs-sample/issues"
+  },
+  "homepage": "https://github.com/nkululek0/docs-sample#readme",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "googleapis": "^105.0.0"
+  }
+}
