@@ -1,0 +1,1 @@
+Simple Google Workspace Docs file reader
